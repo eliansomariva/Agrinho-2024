@@ -1,8 +1,9 @@
 
     .cabeçalho{
     background-color:rgb(16, 153, 16);
-    margin: 0 20px;
+    margin: 0 10px;
     display: block;
+    font-size: 34px;
     
     }
     
@@ -39,18 +40,26 @@
     }
     
     .imagens{
+        width: 40%;
        
     }
     
-    .drone-div{
+    .drone-imagem{
+        width: 30%;
         
     }
     
     
-    .trator-div{
-        
+    .trator-imagem{
+        width: 30%;
     }
     
-    .GPS-agricula-div{
+    .GPS-agricula-imagem{
+        width: 30%;
       
+    }
+    
+    .Softwares-imagem{
+       width: 30%;
+
     }
